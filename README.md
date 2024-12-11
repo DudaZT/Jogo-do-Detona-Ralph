@@ -6,9 +6,9 @@ Bem-vindo ao repositório do Jogo do Detona Ralph! Este projeto contém a criaç
 
 ## 🚀 Começando
 
-Para jogar basta acessar o link: [Site](https://dudazt.github.io/Jogo-do-Detona-Ralph/)
+Para jogar basta acessar o link: [Jogo do Detona Ralph](https://dudazt.github.io/Jogo-do-Detona-Ralph/)
 
-Clicar ao encontrar o Ralph, e ver sua pontuação subir!
+Como Jogar: Clique quando o Ralph aparecer, e veja sua pontuação subir!
 
 <br><br>
 
